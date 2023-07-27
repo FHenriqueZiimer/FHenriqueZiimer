@@ -1,10 +1,4 @@
 ### Olá!! 👋
-
-:computer: Atualmente estou desenvolvendo um e-commerce de um empreendimento pessoal, você pode ver o meu progresso no site: <a href="https://www.zymer.com.br/" target="_blank" >
-    https://www.zymer.com.br/
-</a> Esse site está sendo desenvolvido em ReactJs e scss no Front-End e nodejs com mongoDB no Back-End.
-  
-
 ## Contact
 
 <a href="https://www.linkedin.com/in/fábio-h-ferreira/" target="_blank" >

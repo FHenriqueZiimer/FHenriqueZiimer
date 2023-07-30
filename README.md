@@ -14,6 +14,7 @@
   <img align="center" alt="Fabio-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
   <img align="center" alt="Fabio-VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Fabio-JEST" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"/>
+  <img align="center" alt="Fabio-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
 
 </div>
 

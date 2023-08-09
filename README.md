@@ -18,7 +18,18 @@
 
 </div>
 
+##
 
+### SOBRE
+
+Tenho experiência a mais de 4 anos trabalhando em start-ups e médias/grandes empresas na área da saúde, fintech e edtech, onde eu desenvolvi minhas softs skills de fácil aprendizagem, clean code, refactoring, gestão de tempo e flexibilidade.
+Na maior parte da minha experiência eu fui direcionado a ser FullStack utilizando como principal linguagem o JavaScript.
+Minhas principais Linguagens: ReactJS, Typescript, VueJs, MySQL, NoSQL, NodeJS.
+
+### ABOUT
+I have over 4 years of experience working in start-ups and large medium/large companies in the healthcare, fintech, and edtech industries, where I have developed my soft skills of quick learning, clean code, refactoring, time management, and adaptability. Throughout most of my experience, I have been tasked FullStack, primarily using JavaScript as the main language. My main languages include ReactJS, Typescript, VueJs, MySQL, NoSQL, and NodeJS.
+
+##
 <div> 
 
   <a href = "mailto:fabohenrique@live.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

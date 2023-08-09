@@ -27,7 +27,7 @@ Na maior parte da minha experiência eu fui direcionado a ser FullStack utilizan
 Minhas principais Linguagens: ReactJS, Typescript, VueJs, MySQL, NoSQL, NodeJS.
 
 ### ABOUT
-I have over 4 years of experience working in start-ups and large medium/large companies in the healthcare, fintech, and edtech industries, where I have developed my soft skills of quick learning, clean code, refactoring, time management, and adaptability. Throughout most of my experience, I have been tasked FullStack, primarily using JavaScript as the main language. My main languages include ReactJS, Typescript, VueJs, MySQL, NoSQL, and NodeJS.
+I have over 4 years of experience working in start-ups and medium/large companies in the healthcare, fintech, and edtech industries, where I have developed my soft skills of quick learning, clean code, refactoring, time management, and adaptability. Throughout most of my experience, I have been tasked FullStack, primarily using JavaScript as the main language. My main languages include ReactJS, Typescript, VueJs, MySQL, NoSQL, and NodeJS.
 
 ##
 <div> 

@@ -1,11 +1,9 @@
-### Olá, eu sou o Fábio!!!
+### Olá, eu sou o Fábio!
 
 <div align="center">
   <a href="https://github.com/FHenriqueZiimer">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHenriqueZiimer&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-<div style="display: inline_block"><br>
+    <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Fabio-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Fabio-NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
@@ -16,6 +14,9 @@
   <img align="center" alt="Fabio-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
 
 </div>
+</div>
+
+
 
 ##
 

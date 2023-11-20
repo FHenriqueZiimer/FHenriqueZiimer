@@ -22,7 +22,7 @@
 
 ### SOBRE
 
-Tenho experiência a mais de 4 anos trabalhando em start-ups e médias/grandes empresas na área da saúde, fintech e edtech, onde eu desenvolvi minhas softs skills de fácil aprendizagem, clean code, refactoring, gestão de tempo e flexibilidade.
+Tenho experiência a mais de 5 anos trabalhando em start-ups e médias/grandes empresas na área da saúde, fintech e edtech, onde eu desenvolvi minhas softs skills de fácil aprendizagem, clean code, refactoring, gestão de tempo e flexibilidade.
 Na maior parte da minha experiência eu fui direcionado a ser FullStack utilizando como principal linguagem o JavaScript.
 Minhas principais Linguagens: ReactJS, Typescript, VueJs, MySQL, NoSQL, NodeJS.
 

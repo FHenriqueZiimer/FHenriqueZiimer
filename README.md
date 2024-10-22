@@ -1,14 +1,5 @@
 ### Olá, Seja bem vindo ao meu perfil!
 
-
-##
-
-### SOBRE MIM
-
-Com mais de 5 anos de experiência em desenvolvimento, tenho uma sólida bagagem trabalhando em start-ups e empresas de médio a grande porte nos setores da saúde, fintech e edtech. Minha trajetória profissional me permitiu aprimorar habilidades essenciais, como aprendizado ágil, código limpo, refinamento de código, gestão eficaz do tempo e flexibilidade em arquiteturas e linguagens.
-
-Ao longo desses anos, dediquei-me principalmente ao desenvolvimento FullStack, utilizando o JavaScript como minha linguagem primária. Tenho conhecimento em uma variedade de tecnologias e ferramentas para o desenvolvimento de soluções, incluindo ReactJS, Typescript, VueJs, MySQL, NodeJS, NestJs e NextJs.
-
 ### ABOUT ME
 With over 5 years of experience in software development, I have built a strong background working with startups and medium to large-sized companies in the healthcare, fintech, and edtech sectors. My professional journey has allowed me to refine essential skills such as agile learning, clean code practices, code optimization, effective time management, and adaptability to various architectures and programming languages.
 

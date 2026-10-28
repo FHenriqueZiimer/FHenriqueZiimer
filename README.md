@@ -28,7 +28,7 @@
     </td>
     <td width="33.33%" valign="top">
       <sub>FOCUS</sub><br />
-      <strong>Architecture & integrations</strong><br />
+      <strong></strong><br />
       Secure, scalable digital systems
     </td>
     <td width="33.33%" valign="top">

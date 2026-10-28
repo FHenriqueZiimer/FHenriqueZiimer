@@ -22,19 +22,19 @@
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <sub>CURRENT ROLE</sub><br />
+      <sub>CURRENT ROLE · ATUAL</sub><br />
       <strong>Software Engineer</strong><br />
       <a href="https://www.lyx.com.br/">Lyx Engenharia</a>
     </td>
     <td width="33.33%" valign="top">
-      <sub>EXPERTISE</sub><br />
-      <strong>Architecture & integrations</strong><br />
-      Secure, scalable digital systems
+      <sub>FROS · STATUS</sub><br />
+      <strong>In staging</strong><br />
+      Em homologação
     </td>
     <td width="33.33%" valign="top">
-      <sub>INDEPENDENT WORK</sub><br />
-      <strong>Fros & Garim</strong><br />
-      SaaS and marketplace products
+      <sub>GARIM · STATUS</sub><br />
+      <strong>Live</strong><br />
+      Disponível
     </td>
   </tr>
 </table>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Abstração visual de arquitetura de software e sistemas conectados" />
+  <img src="./assets/profile-banner.png" alt="Arquitetura de software, sistemas conectados e inteligência artificial" />
 </p>
 
 <div align="center">
@@ -9,12 +9,9 @@
 <sub>SOFTWARE ENGINEER · SOLUTIONS ARCHITECT</sub>
 
 <p>
-  Digital products, enterprise integrations, and applied AI.<br />
-  <sub>Produtos digitais, integrações corporativas e IA aplicada.</sub>
+  Building products, integrations, and AI automation from architecture to production.<br />
+  <sub>Produtos, integrações e automação com IA — da arquitetura à produção.</sub>
 </p>
-
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-161B22?style=for-the-badge&logoColor=white)](#português)
-[![English](https://img.shields.io/badge/English-30363D?style=for-the-badge&logoColor=white)](#english)
 
 [Portfolio](https://fabio-henrique-fe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fabio-h-ferreira-zi) · [Email](mailto:fabohenrique@live.com)
 
@@ -24,36 +21,41 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub>CURRENTLY</sub><br />
+    <td width="33.33%" valign="top">
+      <sub>CURRENT ROLE</sub><br />
       <strong>Software Engineer</strong><br />
       <a href="https://www.lyx.com.br/">Lyx Engenharia</a>
     </td>
-    <td width="50%" valign="top">
-      <sub>FOCUS</sub><br />
-      <strong>Architecture, integrations, and AI</strong><br />
-      Arquitetura, integrações e IA
+    <td width="33.33%" valign="top">
+      <sub>EXPERTISE</sub><br />
+      <strong>Architecture & integrations</strong><br />
+      Secure, scalable digital systems
+    </td>
+    <td width="33.33%" valign="top">
+      <sub>INDEPENDENT WORK</sub><br />
+      <strong>Fros & Garim</strong><br />
+      SaaS and marketplace products
     </td>
   </tr>
 </table>
 
 <br />
 
-## Tecnologia
+## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,mongodb,postgres,aws,docker,githubactions,git,figma&theme=dark&perline=12" alt="TypeScript, Next.js, React, Node.js, NestJS, MongoDB, PostgreSQL, AWS, Docker, GitHub Actions, Git e Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,mongodb,postgres,aws,docker,githubactions,git,figma,openai&theme=dark&perline=14" alt="TypeScript, Next.js, React, Tailwind, Node.js, NestJS, MongoDB, PostgreSQL, AWS, Docker, GitHub Actions, Git, Figma e OpenAI" />
 </p>
 
-<div align="center">
-
-`TypeScript` · `Next.js` · `React` · `NestJS` · `Node.js` · `MongoDB` · `PostgreSQL` · `AWS` · `Docker` · `CI/CD`
-
-</div>
+<p align="center">
+  <sub>TypeScript · Next.js · React · NestJS · Node.js · MongoDB · PostgreSQL · AWS · Docker · CI/CD · Applied AI</sub>
+</p>
 
 ---
 
-## Português
+<details open>
+  <summary><strong>Português</strong></summary>
+  <br />
 
 Tenho mais de 7 anos de experiência construindo sistemas escaláveis em saúde, fintech, edtech e engenharia. Uno desenvolvimento full stack, arquitetura de soluções, integração de sistemas e automação de processos com IA.
 
@@ -70,19 +72,21 @@ Tenho mais de 7 anos de experiência construindo sistemas escaláveis em saúde,
     <td width="50%" valign="top">
       <sub>MARKETPLACE DE DESCOBERTA</sub><br /><br />
       <a href="https://garim-front.vercel.app/"><strong>Garim</strong></a><br /><br />
-      Uma plataforma que aproxima compradores de lojas independentes de peças reaproveitadas, sem intermediar pagamentos.<br /><br />
+      Plataforma que aproxima compradores de lojas independentes de peças reaproveitadas, sem intermediar pagamentos.<br /><br />
       <sub>Next.js · React · TypeScript · NestJS · MongoDB · PWA</sub>
     </td>
   </tr>
 </table>
 
-### Princípios de trabalho
+### Como trabalho
 
 Produtos e APIs simples de manter. Segurança, validação e observabilidade desde o início. Integrações resilientes. Automação que reduz trabalho manual e melhora a operação.
 
----
+</details>
 
-## English
+<details>
+  <summary><strong>English</strong></summary>
+  <br />
 
 I have 7+ years of experience building scalable systems across healthcare, fintech, edtech, and engineering. I combine full-stack development, solution architecture, systems integration, and AI-powered process automation.
 
@@ -105,16 +109,16 @@ I have 7+ years of experience building scalable systems across healthcare, finte
   </tr>
 </table>
 
-### Working principles
+### How I work
 
 Maintainable products and APIs. Security, validation, and observability from the beginning. Resilient integrations. Automation that reduces manual work and improves operations.
+
+</details>
 
 ---
 
 <div align="center">
 
-Let’s build something meaningful. · Vamos construir algo relevante.
-
-[Portfolio](https://fabio-henrique-fe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fabio-h-ferreira-zi) · [Email](mailto:fabohenrique@live.com)
+Let’s build something meaningful.
 
 </div>

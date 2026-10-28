@@ -51,13 +51,6 @@
   <sub>TypeScript · Next.js · React · NestJS · Node.js · MongoDB · PostgreSQL · AWS · Docker · CI/CD · Applied AI</sub>
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FHenriqueZiimer&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub%20activity&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=8B949E&amp;icon_color=58A6FF&amp;border_color=30363D" alt="Estatísticas públicas do GitHub de Fábio Henrique" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHenriqueZiimer&amp;layout=compact&amp;langs_count=8&amp;custom_title=Top%20languages&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=8B949E&amp;border_color=30363D" alt="Linguagens mais usadas em repositórios públicos" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FHenriqueZiimer&amp;theme=github-dark-blue&amp;hide_border=false&amp;border=30363D&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=8B949E" alt="Sequência de contribuições públicas no GitHub" />
 </p>

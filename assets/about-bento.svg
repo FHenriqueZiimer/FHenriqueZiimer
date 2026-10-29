@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="876" height="224" viewBox="0 0 876 224" fill="none" role="img" aria-label="Sobre mim e Como trabalho (Português / English)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="224" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .lang { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 700; fill: #58A6FF; letter-spacing: 0.08em; }
+    .lead { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #E6EDF3; }
+    .sublead { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 400; fill: #8B949E; }
+    .item-bold { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; fill: #C9D1D9; }
+    .item-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 400; fill: #8B949E; }
+  </style>
+
+  <!-- Left Card: PT -->
+  <g transform="translate(0, 0)">
+    <rect x="0.5" y="0.5" width="429" height="223" rx="16" fill="url(#bg)" stroke="#30363D"/>
+    <text x="24" y="32" class="lang">PORTUGUÊS · COMO TRABALHO</text>
+    <text x="24" y="58" class="lead">7+ anos construindo sistemas escaláveis em engenharia,</text>
+    <text x="24" y="77" class="sublead">saúde, fintech e edtech — da arquitetura à produção.</text>
+
+    <line x1="24" y1="95" x2="405" y2="95" stroke="#21262D"/>
+
+    <circle cx="30" cy="118" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="122" class="item-bold">Arquitetura pragmática:</text>
+    <text x="186" y="122" class="item-text">sistemas modulares e fáceis de manter</text>
+
+    <circle cx="30" cy="144" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="148" class="item-bold">Secure by design:</text>
+    <text x="150" y="148" class="item-text">validação estrita, SAST/SCA e auditoria</text>
+
+    <circle cx="30" cy="170" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="174" class="item-bold">IA em produção:</text>
+    <text x="142" y="174" class="item-text">automações que reduzem trabalho manual</text>
+
+    <circle cx="30" cy="196" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="200" class="item-bold">Integrações resilientes:</text>
+    <text x="182" y="200" class="item-text">APIs e comunicação corporativa confiável</text>
+  </g>
+
+  <!-- Right Card: EN -->
+  <g transform="translate(446, 0)">
+    <rect x="0.5" y="0.5" width="429" height="223" rx="16" fill="url(#bg)" stroke="#30363D"/>
+    <text x="24" y="32" class="lang">ENGLISH · HOW I WORK</text>
+    <text x="24" y="58" class="lead">7+ years building scalable systems across engineering,</text>
+    <text x="24" y="77" class="sublead">healthcare, fintech, and edtech — architecture to production.</text>
+
+    <line x1="24" y1="95" x2="405" y2="95" stroke="#21262D"/>
+
+    <circle cx="30" cy="118" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="122" class="item-bold">Pragmatic architecture:</text>
+    <text x="185" y="122" class="item-text">modular, maintainable digital products</text>
+
+    <circle cx="30" cy="144" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="148" class="item-bold">Secure by design:</text>
+    <text x="150" y="148" class="item-text">strict validation, SAST/SCA &amp; auditability</text>
+
+    <circle cx="30" cy="170" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="174" class="item-bold">Applied AI:</text>
+    <text x="112" y="174" class="item-text">production automation that cuts manual ops</text>
+
+    <circle cx="30" cy="196" r="2.5" fill="#58A6FF"/>
+    <text x="42" y="200" class="item-bold">Resilient integrations:</text>
+    <text x="176" y="200" class="item-text">fault-tolerant APIs &amp; enterprise workflows</text>
+  </g>
+</svg>

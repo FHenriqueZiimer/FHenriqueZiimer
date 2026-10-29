@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="38" viewBox="0 0 128 38" fill="none" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1C2128"/>
+      <stop offset="100%" stop-color="#13171D"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #E6EDF3; letter-spacing: -0.01em; }
+  </style>
+  <rect x="0.5" y="0.5" width="127" height="37" rx="10" fill="url(#bg)" stroke="#30363D"/>
+  <rect x="19" y="13" width="12" height="12" rx="2.5" fill="#0A66C2"/>
+  <circle cx="22.3" cy="16.3" r="1" fill="#FFFFFF"/>
+  <path d="M21.6 18.2H23V22.8H21.6V18.2ZM24.4 18.2H25.7V18.9C26.05 18.4 26.6 18.1 27.3 18.1C28.5 18.1 29.1 18.8 29.1 20.1V22.8H27.7V20.3C27.7 19.6 27.4 19.2 26.8 19.2C26.2 19.2 25.8 19.6 25.8 20.3V22.8H24.4V18.2Z" fill="#FFFFFF"/>
+  <text x="39" y="23.5" class="label">LinkedIn</text>
+</svg>

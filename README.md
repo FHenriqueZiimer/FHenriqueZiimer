@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://fabio-henrique-fe.vercel.app">
-    <img src="./assets/profile-banner.png" alt="Fábio Henrique Ferreira — Software Engineer & Solutions Architect" width="100%" />
-  </a>
-</p>
+
 
 <div align="center">
 

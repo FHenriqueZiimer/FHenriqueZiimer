@@ -10,8 +10,8 @@
 <br />
 
 <p align="center">
-  <a href="https://fabio-henrique-fe.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Acessar Portfólio Oficial" height="38" /></a>&nbsp;&nbsp;
-  <a href="https://fabio-henrique-fe.vercel.app/CV-FabioHenrique.pdf"><img src="./assets/btn-cv.svg" alt="Baixar Currículo em PDF" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://fabio-henrique-fe.ziim.com.br"><img src="./assets/btn-portfolio.svg" alt="Acessar Portfólio Oficial" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://fabio-henrique-fe.ziim.com.br/CV-FabioHenrique.pdf"><img src="./assets/btn-cv.svg" alt="Baixar Currículo em PDF" height="38" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fabio-h-ferreira-zi"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>&nbsp;&nbsp;
   <a href="mailto:fabohenrique@live.com"><img src="./assets/btn-email.svg" alt="Contato por E-mail" height="38" /></a>
 </p>
@@ -22,8 +22,8 @@
 
 <p align="center">
   <a href="https://www.lyx.com.br/"><img src="./assets/overview-role.svg" alt="Atuação Atual: Software Engineer na Lyx Engenharia" width="32%" /></a>&nbsp;
-  <a href="https://fabio-henrique-fe.vercel.app"><img src="./assets/overview-focus.svg" alt="Especialidade: Arquitetura & IA" width="32%" /></a>&nbsp;
-  <a href="https://fabio-henrique-fe.vercel.app"><img src="./assets/overview-portfolio.svg" alt="Acessar Portfólio Completo" width="32%" /></a>
+  <a href="https://fabio-henrique-fe.ziim.com.br"><img src="./assets/overview-focus.svg" alt="Especialidade: Arquitetura & IA" width="32%" /></a>&nbsp;
+  <a href="https://fabio-henrique-fe.ziim.com.br"><img src="./assets/overview-portfolio.svg" alt="Acessar Portfólio Completo" width="32%" /></a>
 </p>
 
 <br />
@@ -71,7 +71,7 @@
 <br />
 
 <div align="center">
-  <a href="https://fabio-henrique-fe.vercel.app"><strong>fabio-henrique-fe.vercel.app</strong></a> &nbsp;·&nbsp; <a href="https://fros.app"><strong>fros.app</strong></a> &nbsp;·&nbsp; <a href="https://garim-front.vercel.app"><strong>garim</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/fabio-h-ferreira-zi"><strong>LinkedIn</strong></a>
+  <a href="https://fabio-henrique-fe.ziim.com.br"><strong>fabio-henrique-fe.ziim.com.br</strong></a> &nbsp;·&nbsp; <a href="https://fros.app"><strong>fros.app</strong></a> &nbsp;·&nbsp; <a href="https://garim-front.vercel.app"><strong>garim</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/fabio-h-ferreira-zi"><strong>LinkedIn</strong></a>
   <br /><br />
   <sub>Let’s build something meaningful.</sub>
 </div>
